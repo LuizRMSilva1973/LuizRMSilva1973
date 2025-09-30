@@ -76,17 +76,6 @@ A **Mantovani Technology and Innovation** é a identidade fantasia de *Luiz Rica
 
 ---
 
-## 📊 Estatísticas GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantovani36&layout=compact&langs_count=8&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Mantovani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantovani36&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mantovani36&hide_longest_streak=true&hide_current_streak=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mantovani36&theme=flat&no-frame=true&no-bg=true&margin-w=8&title=Commit,Issues,PullRequest,Stars,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## ⚖️ Direitos
 © 2025 Mantovani Technology and Innovation • Luiz Ricardo Mantovani da Silva
