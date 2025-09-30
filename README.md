@@ -60,7 +60,7 @@ Atuamos com plataformas educacionais, integrações de pagamento, automação co
 A **Mantovani Technology and Innovation** é a identidade fantasia de *Luiz Ricardo Mantovani da Silva Ltda.*  
 
 ### Princípios
-- Gestão por *Maria Gabriela Trivelato Mantovani da Silva* (Oncologia Veterinária + Marketing Digital).  
+- Gestão por *Maria Gabriela Trivelato Mantovani da Silva* (Oncologia Veterinária + Ciência da Computação + Marketing Digital).  
 - Valor em produção primeiro, com ciclos curtos.  
 - Segurança e privacidade como padrão.  
 - IA aplicada como meio, não como fim.  
