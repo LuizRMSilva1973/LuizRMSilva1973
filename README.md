@@ -1,4 +1,4 @@
-# Mantovani Technology and Innovation • Luiz Ricardo Mantovani da Silva
+# Mantovani Technology and Innovation • Luiz Ricardo Mantovani da Silva Ltda
 
 > Construímos produtos digitais e soluções de IA que geram valor real.
 
