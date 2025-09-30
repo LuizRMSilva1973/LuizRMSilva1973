@@ -1,4 +1,3 @@
-```markdown
 # Mantovani Technology and Innovation • Luiz Ricardo Mantovani da Silva
 
 > Construímos produtos digitais e soluções de IA que geram valor real.
@@ -125,4 +124,3 @@ Unimos engenharia de software, ciência de dados e design para criar soluções 
 We build AI-powered digital products that deliver real value.  
 Contact: **[mantovani@mantovanitec.com](mailto:mantovani@mantovanitec.com)** · **[GitHub](https://github.com/mantovani36)** · **[LinkedIn](https://www.linkedin.com/in/luiz-ricardo-mantovani-da-silva-926958160/)**
 
-```
