@@ -4,13 +4,12 @@
 
 ## 👤 Perfil & Conexões
 
-[![Profile Views](https://komarev.com/ghpvc/?username=LuizRMSilva1973&style=flat-square)](https://github.com/LuizRMSilva1973)  
-[![Seguidores](https://img.shields.io/github/followers/LuizRMSilva1973?label=Seguidores&style=flat-square&cacheSeconds=3600)](https://github.com/LuizRMSilva1973?tab=followers)  
-[![Stars](https://img.shields.io/github/stars/LuizRMSilva1973?affiliations=OWNER&style=flat-square&label=Stars&cacheSeconds=3600)](https://github.com/LuizRMSilva1973?tab=stars)  
-[![Website](https://img.shields.io/badge/site-mantovanitec.com-0ea5e9?style=flat-square)](https://mantovanitec.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Ricardo%20Mantovani%20da%20Silva-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-mantovani-da-silva-926958160/)  
-[![E-mail](https://img.shields.io/badge/email-mantovani%40mantovanitec.com-10b981?style=flat-square)](mailto:mantovani@mantovanitec.com)  
-
+[![Profile Views](https://komarev.com/ghpvc/?username=LuizRMSilva1973&style=flat-square)](https://github.com/LuizRMSilva1973)
+[![Seguidores](https://img.shields.io/github/followers/LuizRMSilva1973?label=Seguidores&style=flat-square&cacheSeconds=3600)](https://github.com/LuizRMSilva1973?tab=followers)
+[![Stars](https://img.shields.io/github/stars/LuizRMSilva1973?affiliations=OWNER&style=flat-square&label=Stars&cacheSeconds=3600)](https://github.com/LuizRMSilva1973?tab=stars)
+[![Website](https://img.shields.io/badge/site-mantovanitec.com-0ea5e9?style=flat-square)](https://mantovanitec.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Ricardo%20Mantovani%20da%20Silva-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-mantovani-da-silva-926958160/)
+[![E-mail](https://img.shields.io/badge/email-mantovani%40mantovanitec.com-10b981?style=flat-square)](mailto:mantovani@mantovanitec.com)
 
 ---
 
