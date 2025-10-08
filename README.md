@@ -72,9 +72,8 @@ A **Mantovani Technology and Innovation** é a identidade fantasia de *Luiz Rica
 
 ## 📫 Contato
 📧 [mantovani@mantovanitec.com](mailto:mantovani@mantovanitec.com)  
-💻 [github.com/mantovani36](https://github.com/mantovani36)  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-ricardo-mantovani-da-silva-926958160/)  
-🌐 [mantovanitec.com.br](https://mantovanitec.com.br)
+🌐 [mantovanitec.com](https://mantovanitec.com)
 
 ---
 
